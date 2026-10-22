@@ -1,7 +1,7 @@
 # California House Price Predictor
 
 An end-to-end machine learning project: exploring the California Housing dataset, comparing regression models, and serving the best one through a small web app.
-[App screenshot](house-price-screenshot.png)
+[App house-price-screenshot](house-price-screenshot.png)
 
 ## What's inside
 
